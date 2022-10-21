@@ -14,12 +14,15 @@ body {
     text-align: center;
 
 }
-.nav-item{
+
+.nav-item {
     margin: 0em 0.3em;
 }
-.nav-item:hover{
+
+.nav-item:hover {
     text-decoration: underline;
 }
+
 .navimg {
     width: 108px;
     /* height: 10%; */
@@ -42,7 +45,8 @@ body {
     align-items: center;
     justify-content: center;
 }
-.first ul li{
+
+.first ul li {
     cursor: pointer;
     font-size: 0.83rem;
     padding: 0em 0.6em;
@@ -54,18 +58,22 @@ body {
     align-items: center;
     justify-content: center;
 }
-.second ul li{
+
+.second ul li {
     font-size: 0.83rem;
     cursor: pointer;
     padding: 0em 0.6em;
 }
-.second ul li:hover{
+
+.second ul li:hover {
     text-decoration: underline;
 }
-.first ul li:hover{
+
+.first ul li:hover {
     text-decoration: underline;
 }
-.head-i{
+
+.head-i {
     padding-left: 4px;
 }
 
@@ -316,15 +324,16 @@ footer {
 
 }
 
-@media (max-width:1450px){
-    .mse-txt{
+@media (max-width:1450px) {
+    .mse-txt {
         padding-left: 5%;
         position: relative;
         max-width: none;
         margin: auto;
         left: 0%;
     }
-    .mse-mse{
+
+    .mse-mse {
         padding: 4% 0%;
     }
 
