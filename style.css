@@ -27,6 +27,11 @@ body {
     width: 108px;
     /* height: 10%; */
 }
+#user{
+    height: 1.7rem;
+    width: 1.7rem;
+    padding-left: 6px;
+}
 
 .head {
     padding: 0% 11%;
